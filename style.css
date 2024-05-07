@@ -13,9 +13,9 @@ body {
 
 .container1 {
     background-color: #000000;
-    padding: 20px;
-    margin-left: 100px;
-    margin-right: 100px;
+    padding: 0;
+    margin: auto;
+    width: 90%;
     opacity: 0.9;
 }
 
@@ -55,7 +55,9 @@ body {
     color: aliceblue;
   }
   .texto1 {  
-    margin-right: 8%;
+    padding: 0;
+    margin: auto;
+    width: 100%;
     background-color: #000000;
     opacity: 0.9;
   }
